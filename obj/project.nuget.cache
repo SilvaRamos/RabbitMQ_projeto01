@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEziqHMRtBeEdGe+JYFDGUQVgVmzgOuo4p6rIBVzZseYLk2vrN0MkePfyPVUX6CCgsBanBk8nLPwMsCOI01J7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tathi\\source\\repos\\RabbitMQ_Projeto01\\Emissor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tathi\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\tathi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\tathi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
